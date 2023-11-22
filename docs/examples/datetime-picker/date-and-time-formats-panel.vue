@@ -8,6 +8,7 @@
         format="YYYY-MM-DD HH:mm:ss"
         date-format="MMM DD, YYYY"
         time-format="HH:mm"
+        :unlink-panels="true"
       />
     </div>
     <div class="line" />
